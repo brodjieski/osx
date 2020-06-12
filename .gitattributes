@@ -1,1 +1,1 @@
-* linguist-language=Python
+*.yaml linguist-detectable=true
